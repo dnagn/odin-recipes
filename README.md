@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is a project that helps Odin students build their HTML skills. It's a website that has links to a few recipes. Students need to desmonstrate their HTMl skills that they have learned throughout this project to complete this project.
