@@ -1,0 +1,35 @@
+* {
+    background-color: #A8DEBA;
+}
+
+.recipe-link, .heading {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-link {
+    font-size: 20px;
+}
+
+.heading {
+    font-size: 100px;
+}
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
